@@ -48,13 +48,9 @@ The Customer Review Analysis application is designed to analyze customer reviews
 
        •	Set up the following Azure AI services:
 
-       •	Azure AI Form Recognizer
+      •	Azure AI services multi-service account
 
-       •	Azure AI Text Analytics
-
-       •	Azure AI Vision Image Analysis
-
-       •	Obtain the endpoint and key for each service.
+       •	Obtain the endpoint and key for service.
 
 
 4.	Configure User Secrets:
